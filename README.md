@@ -1,5 +1,5 @@
 # ANN-using-TensorFlow
-I have to train a Artificial Neural Network (ANN) model using TensorFlow from the dataset. 
+I have train a Artificial Neural Network (ANN) model using TensorFlow from the dataset. 
 We use an open source tabular dataset Ionosphere dataset.
 This dataset contains 34 independent variables (V1 to V34) and one dependent variable (Class).
 The dependent variable (Class) denotes only one and zero.

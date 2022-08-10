@@ -8,3 +8,8 @@ The radar signals that could come from Ionosphere is Good (Class - 1) or Bad(Cla
 I use Jupyter Notebook for demonstrate the project.
 
 Dataset -- URL -- "https://github.com/selva86/datasets/blob/master/Ionosphere.csv"
+
+In the neural network, I designed 3 layers.
+1) Hidden layer 1 - 10 neurons
+2) Hidden layer 2 - 5 neurons
+3) Output layer - 1 neuron
